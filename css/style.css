@@ -5,3 +5,11 @@ body {
   font-family: 'Baloo 2', cursive;
   font-size: 75px;
 }
+.description {
+  font-family: 'Baloo 2', cursive;
+}
+.popular{
+  font-family: 'Baloo 2', cursive;
+  font-size: 55px;
+  padding-left: 20px;
+}
