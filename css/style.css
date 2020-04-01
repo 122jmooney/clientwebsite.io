@@ -7,9 +7,12 @@ body {
 }
 .description {
   font-family: 'Baloo 2', cursive;
+  font-size: 35;
 }
 .popular{
   font-family: 'Baloo 2', cursive;
   font-size: 55px;
-  padding-left: 20px;
+}
+.card-des {
+  font-family: 'Baloo 2', cursive;
 }
