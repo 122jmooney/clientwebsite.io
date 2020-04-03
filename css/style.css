@@ -16,3 +16,15 @@ body {
 .card-des {
   font-family: 'Baloo 2', cursive;
 }
+.interactive-image {
+    height: 670px;
+    transition: height 1s, filter 1s;
+}
+
+img.interactive-image:hover {
+    height: 730px;
+}
+.row {
+  padding-bottom: 40px;
+  font-family: 'Baloo 2', cursive;
+}
