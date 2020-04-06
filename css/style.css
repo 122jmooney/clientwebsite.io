@@ -17,14 +17,38 @@ body {
   font-family: 'Baloo 2', cursive;
 }
 .interactive-image {
-    height: 670px;
-    transition: height 1s, filter 1s;
+  height: 670px;
+  transition: height 1s, filter 1s;
 }
 
 img.interactive-image:hover {
-    height: 730px;
+  height: 730px;
 }
 .row {
   padding-bottom: 40px;
   font-family: 'Baloo 2', cursive;
+}
+.container-fluid, .row {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: auto;
+}
+.form-row {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.form-group {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.btn-form {
+  padding-left: 20px;
+}
+.sign-up {
+  font-size: 80px;
+  font-family: 'Baloo 2', cursive;
+}
+.form-font {
+  font-family: 'Baloo 2', cursive;
+  font-size: 17px;
 }
